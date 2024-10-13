@@ -1,0 +1,1 @@
+# C-program-to-verify-whether-the-given-number-is-armstrong-number-or-not
